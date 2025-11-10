@@ -11,6 +11,7 @@ Ce dépôt regroupe des ressources pédagogiques pour comprendre et maîtriser l
 | [`modeledebdd.md`](./modeledebdd.md) | Introduction aux modèles de bases de données : concepts, entités, attributs, types de relations. |
 | [`modele_relationnel.md`](./modele_relationnel.md) | Passage au modèle relationnel : clés primaires/étrangères, types de relations, contraintes d'intégrité. |
 | [`normalisation.md`](./normalisation.md) | Principes et applications des principales formes de normalisation. |
+| [`exercice.md`](./exercice.md) | Création et déclaration d'un schéma relationnel. |
 
 ---
 
